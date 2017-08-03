@@ -1,6 +1,6 @@
 def caesar_cipher string, number
 	for i in 0...string.length
-		if(string[i].match(/\w/))
+		if(string[i].match(/[a-zA-z]/))
 			for j in 1..number
 				if(string[i] == "z")
 					string[i] = "a"
