@@ -13,7 +13,7 @@ Open your Terminal/Command Line. Navigate to the directory where your version wi
 ```
 $ git clone https://github.com/JonathanYiv/caesar_cipher.git
 $ cd caesar_cipher
-$ cc.rb
+$ ruby cc.rb
 ```
 
 ## Pre-Project Thoughts
