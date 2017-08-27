@@ -13,7 +13,7 @@ Open your Terminal/Command Line. Navigate to the directory where your version wi
 ```
 $ git clone https://github.com/JonathanYiv/caesar_cipher.git
 $ cd caesar_cipher
-$ ruby cc.rb
+$ ruby lib/caesar_cipher.rb
 ```
 
 ## Pre-Project Thoughts
@@ -22,4 +22,10 @@ This should be easy.
 
 ## Post-Project Thoughts
 
-It was easy.
+1. It was easy.
+
+2. In this [Odin follow-up project](https://www.theodinproject.com/courses/ruby-programming/lessons/testing-ruby): 
+
+	1. I came back to Caesar Cipher and integrated specifications using RSpec. I found ten possible scenarios to test, and added functionality for negative shift when I added the test. 
+
+	2. I set up a RakeFile so I can use the '$ rake' command to run rspec. I do not know how to pass in the -fdoc option however.
