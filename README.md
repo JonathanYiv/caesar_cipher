@@ -30,4 +30,4 @@ This should be easy.
 
 	2. I set up a RakeFile so I can use the '$ rake' command to run rspec based on the [documentation here](https://relishapp.com/rspec/rspec-core/docs/command-line/rake-task#passing-arguments-to-the-`rspec`-command-using-`rspec-opts`).
 
-3. In this [OTHER Odin follow-up project](https://www.theodinproject.com/courses/ruby-on-rails/lessons/sinatra-project), I came back and added a Sinatra web-app interface. It was pretty easy. 
+3. In this [OTHER Odin follow-up project](https://www.theodinproject.com/courses/ruby-on-rails/lessons/sinatra-project), I came back and added a [Heroku-hosted Sinatra web-app interface](https://lit-woodland-76112.herokuapp.com/). It was pretty easy. 
