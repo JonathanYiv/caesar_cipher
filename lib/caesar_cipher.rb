@@ -16,5 +16,3 @@ def caesar_cipher string, number
 	end
 	return string
 end
-
-caesar_cipher("What a string!", 5)
