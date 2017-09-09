@@ -29,3 +29,5 @@ This should be easy.
 	1. I came back to Caesar Cipher and integrated specifications using RSpec. I found ten possible scenarios to test, and added functionality for negative shift when I added the test. 
 
 	2. I set up a RakeFile so I can use the '$ rake' command to run rspec based on the [documentation here](https://relishapp.com/rspec/rspec-core/docs/command-line/rake-task#passing-arguments-to-the-`rspec`-command-using-`rspec-opts`).
+
+3. In this [OTHER Odin follow-up project](https://www.theodinproject.com/courses/ruby-on-rails/lessons/sinatra-project), I came back and added a Sinatra web-app interface. It was pretty easy. 
